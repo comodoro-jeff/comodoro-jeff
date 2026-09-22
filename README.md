@@ -99,13 +99,11 @@ Estou direcionando meus estudos para a construção de uma base sólida na área
 
 # 🧭 Objetivo profissional
 
-Meu objetivo é construir uma carreira na área de **Dados**, desenvolvendo soluções que combinem programação, análise, estatística e Machine Learning para resolver problemas reais.
+Meu objetivo é construir uma carreira na área de **Dados**, desenvolvendo soluções que combinem análise, estatística e Machine Learning para resolver problemas reais.
 
 Tenho interesse em oportunidades relacionadas a:
 
 **Data Analytics • Data Science • Machine Learning • Data Engineering**
-
-Este perfil acompanha minha evolução nessa jornada, reunindo projetos que aplicam na prática os conhecimentos adquiridos ao longo da minha formação.
 
 ---
 
