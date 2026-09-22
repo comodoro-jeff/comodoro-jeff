@@ -4,7 +4,7 @@
 
 Sou estudante da área de Computação e tenho interesse em **Dados, Inteligência Artificial e desenvolvimento de soluções orientadas a dados**.
 
-Atualmente, estou direcionando minha formação para a área de Dados, buscando desenvolver uma base sólida em **programação, análise de dados, estatística, Machine Learning e Engenharia de Dados**, sempre procurando transformar conhecimentos teóricos em projetos práticos.
+Atualmente, estou direcionando minha formação para a área de Dados, buscando desenvolver uma base sólida em **Análise de dados, Ciência de Dados e Engenharia de Dados**, sempre procurando transformar conhecimentos teóricos em projetos práticos.
 
 Este perfil reúne projetos acadêmicos e pessoais que representam minha trajetória de aprendizado, minhas experiências práticas e minha evolução técnica.
 
@@ -16,9 +16,6 @@ Este perfil reúne projetos acadêmicos e pessoais que representam minha trajet�
 * 🤖 Ciência de Dados
 * 🧠 Machine Learning
 * 🗄️ Engenharia de Dados
-* 📈 Séries Temporais e Modelagem Preditiva
-* 👁️ Visão Computacional
-* 🌐 Internet das Coisas (IoT)
 
 ---
 
