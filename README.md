@@ -119,14 +119,8 @@ Novos projetos serão adicionados progressivamente, especialmente nas áreas de 
 
 # 📫 Contato
 
-Estou aberto a conexões, oportunidades de aprendizado e conversas sobre **Dados, Inteligência Artificial e Tecnologia**.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jefferson-dias-ribeiro-435a24427/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/comodoro-jeff)
 
 ---
-
-<p align="center">
-  <i>Construindo conhecimento, desenvolvendo projetos e evoluindo na área de Dados.</i>
-</p>
