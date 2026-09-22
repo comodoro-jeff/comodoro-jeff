@@ -73,7 +73,7 @@ O projeto contempla o fluxo completo de experimentação, desde a **criação e 
 
 **Unity • C# • Computação Gráfica • Física Computacional**
 
-Prova de conceito acadêmica desenvolvida na **Unity** para aplicação prática de conceitos de Computação Gráfica e Processamento de Sinais.
+Prova de conceito acadêmica desenvolvida na **Unity** para aplicação prática de conceitos de Computação Gráfica e Processamento de Imagem.
 
 O projeto consiste em um jogo 3D no qual o jogador controla uma nave espacial, desviando de asteroides e enfrentando inimigos.
 
