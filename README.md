@@ -93,7 +93,7 @@ Estou direcionando meus estudos para a construção de uma base sólida na área
 * 🤖 Machine Learning
 * ⏱️ Séries Temporais
 * 🏗️ Fundamentos de Engenharia de Dados
-* ☁️ Tecnologias para processamento e armazenamento de dados
+* ☁️ Tecnologias para Processamento e Armazenamento de dados
 
 ---
 
