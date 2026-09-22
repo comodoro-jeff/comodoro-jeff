@@ -19,7 +19,7 @@ Este perfil reúne projetos acadêmicos e pessoais que representam minha trajet�
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens
 
@@ -43,7 +43,7 @@ Este perfil reúne projetos acadêmicos e pessoais que representam minha trajet�
 
 ---
 
-# 📂 Projetos em destaque
+# 📂 Projetos em Destaque
 
 ### [Tupã — Environmental Data](https://github.com/comodoro-jeff/tupa-environmental-data)
 
