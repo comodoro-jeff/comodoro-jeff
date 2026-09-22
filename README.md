@@ -45,7 +45,7 @@ Este perfil reúne projetos acadêmicos e pessoais que representam minha trajet�
 
 # 📂 Projetos em destaque
 
-### 🌱 [TUPA — Environmental Data](https://github.com/comodoro-jeff/tupa-environmental-data)
+### [TUPA — Environmental Data](https://github.com/comodoro-jeff/tupa-environmental-data)
 
 **IoT • Data Science • Séries Temporais • Modelagem Preditiva**
 
@@ -57,7 +57,7 @@ O projeto combina aquisição de dados por sensores, comunicação utilizando **
 
 ---
 
-### 👁️ [Vigilante YOLO](https://github.com/comodoro-jeff/vigilante-yolo)
+### [Vigilante YOLO](https://github.com/comodoro-jeff/vigilante-yolo)
 
 **Computer Vision • Machine Learning • YOLO • Dataset**
 
@@ -69,7 +69,7 @@ O projeto contempla o fluxo completo de experimentação, desde a **criação e 
 
 ---
 
-### 🚀 [Independence Day Game](https://github.com/comodoro-jeff/Independece-Day-Game)
+### [Independence Day Game](https://github.com/comodoro-jeff/Independece-Day-Game)
 
 **Unity • C# • Computação Gráfica • Física Computacional**
 
