@@ -85,15 +85,15 @@ Embora não seja diretamente relacionado à área de Dados, o projeto demonstra 
 
 Estou direcionando meus estudos para a construção de uma base sólida na área de Dados, com foco em:
 
-* 🐍 Python para Dados
-* 🗃️ SQL e Bancos de Dados
-* 📊 Análise Exploratória de Dados
-* 📈 Visualização de Dados
-* 📐 Estatística Aplicada
-* 🤖 Machine Learning
-* ⏱️ Séries Temporais
-* 🏗️ Fundamentos de Engenharia de Dados
-* ☁️ Tecnologias para Processamento e Armazenamento de dados
+* Python para Dados
+* SQL e Bancos de Dados
+* Análise Exploratória de Dados
+* Visualização de Dados
+* Estatística Aplicada
+* Machine Learning
+* Séries Temporais
+* Fundamentos de Engenharia de Dados
+* Tecnologias para Processamento e Armazenamento de dados
 
 ---
 
