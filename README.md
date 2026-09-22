@@ -10,7 +10,7 @@ Este perfil reúne projetos acadêmicos e pessoais que representam minha trajet�
 
 ---
 
-## 🎯 Áreas de interesse
+## 🎯 Áreas de Interesse
 
 * 📊 Análise de Dados
 * 🤖 Ciência de Dados
