@@ -77,8 +77,6 @@ Prova de conceito acadêmica desenvolvida na **Unity** para aplicação prática
 
 O projeto consiste em um jogo 3D no qual o jogador controla uma nave espacial, desviando de asteroides e enfrentando inimigos.
 
-Embora não seja diretamente relacionado à área de Dados, o projeto demonstra conhecimentos complementares em **programação, lógica, física computacional, simulação e desenvolvimento de sistemas interativos**.
-
 ---
 
 # 📚 Atualmente Estudando
