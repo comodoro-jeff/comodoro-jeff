@@ -45,7 +45,7 @@ Este perfil reúne projetos acadêmicos e pessoais que representam minha trajet�
 
 # 📂 Projetos em destaque
 
-### [TUPA — Environmental Data](https://github.com/comodoro-jeff/tupa-environmental-data)
+### [Tupã — Environmental Data](https://github.com/comodoro-jeff/tupa-environmental-data)
 
 **IoT • Data Science • Séries Temporais • Modelagem Preditiva**
 
@@ -53,7 +53,7 @@ Prova de conceito acadêmica que integra **Internet das Coisas (IoT) e Ciência 
 
 O projeto combina aquisição de dados por sensores, comunicação utilizando **MQTT/ThingsBoard** e modelagem preditiva de séries temporais.
 
-**Principais conceitos:** IoT, coleta de dados, MQTT, análise de dados, séries temporais e modelagem preditiva.
+**Principais conceitos:** IoT, Coleta de Dados, MQTT, Análise de Dados, Séries Temporais e Modelagem Preditiva.
 
 ---
 
@@ -61,11 +61,11 @@ O projeto combina aquisição de dados por sensores, comunicação utilizando **
 
 **Computer Vision • Machine Learning • YOLO • Dataset**
 
-Prova de conceito acadêmica de **Visão Computacional** utilizando o modelo YOLO para detecção de diferentes posições corporais humanas.
+Prova de conceito acadêmica de **Inteligência Computacional** utilizando o modelo YOLO para detecção de diferentes posições corporais humanas.
 
 O projeto contempla o fluxo completo de experimentação, desde a **criação e anotação de um dataset próprio** até a realização de inferências em imagens, vídeos e webcam.
 
-**Principais conceitos:** dataset, anotação, Machine Learning, Deep Learning, Visão Computacional, YOLO e inferência.
+**Principais conceitos:** Dataset, Machine Learning, Deep Learning, Visão Computacional, YOLO e Inferência.
 
 ---
 
