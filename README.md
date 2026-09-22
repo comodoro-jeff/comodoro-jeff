@@ -109,18 +109,8 @@ Este perfil acompanha minha evolução nessa jornada, reunindo projetos que apli
 
 ---
 
-# 🚀 Em construção
-
-Este portfólio está em constante evolução.
-
-Novos projetos serão adicionados progressivamente, especialmente nas áreas de **Análise de Dados, Ciência de Dados, Machine Learning e Engenharia de Dados**, acompanhando o desenvolvimento das minhas competências técnicas.
-
----
-
 # 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jefferson-dias-ribeiro-435a24427/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/comodoro-jeff)
 
 ---
