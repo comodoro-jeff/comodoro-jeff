@@ -81,7 +81,7 @@ Embora não seja diretamente relacionado à área de Dados, o projeto demonstra 
 
 ---
 
-# 📚 Atualmente estudando
+# 📚 Atualmente Estudando
 
 Estou direcionando meus estudos para a construção de uma base sólida na área de Dados, com foco em:
 
