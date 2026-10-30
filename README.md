@@ -45,7 +45,7 @@ Este perfil reúne projetos acadêmicos e pessoais que representam minha trajet�
 
 # 📂 Projetos em Destaque
 
-### [Data Career Second Brain](https://github.com/comodoro-jeff/vigilante-yolo)
+### [Data Career Second Brain](https://github.com/comodoro-jeff/data-career-second-brain) 
 
 **Data Research • Machine Learning • Inteligência Artificial • NotebookLM**
 
