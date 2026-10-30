@@ -45,6 +45,20 @@ Este perfil reúne projetos acadêmicos e pessoais que representam minha trajet�
 
 # 📂 Projetos em Destaque
 
+### [Data Career Second Brain](https://github.com/comodoro-jeff/vigilante-yolo)
+
+**Data Research • Machine Learning • Inteligência Artificial • NotebookLM**
+
+Projeto de pesquisa e documentação dedicado à investigação do ecossistema profissional de **Dados, Machine Learning e Inteligência Artificial.**
+
+A pesquisa foi organizada em oito eixos, abrangendo profissões e especializações, fundamentos científicos, competências técnicas, arquitetura tecnológica, mercado de trabalho, formação, progressão profissional e empregabilidade.
+
+O projeto utiliza o **NotebookLM** como ferramenta de apoio à investigação, com uma base documental selecionada e materiais visuais e analíticos que permitem explorar e relacionar os diferentes aspectos da área.
+
+**Principais conceitos:** Pesquisa documental, análise de fontes, organização do conhecimento, Data Science, Machine Learning, Inteligência Artificial e mercado de tecnologia.
+
+---
+
 ### [Tupã — Environmental Data](https://github.com/comodoro-jeff/tupa-environmental-data)
 
 **IoT • Data Science • Séries Temporais • Modelagem Preditiva**
