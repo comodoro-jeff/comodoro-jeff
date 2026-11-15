@@ -45,7 +45,7 @@ Este perfil reúne projetos acadêmicos e pessoais que representam minha trajet�
 
 # 📂 Projetos em Destaque
 
-### [Porsche Sales Dashboard](https://github.com/comodoro-jeff/data-career-second-brain) 
+### [Porsche Sales Dashboard](https://github.com/comodoro-jeff/porsche-sales-dashboard) 
 
 **Data Analytics • Business Intelligence • Data Visualization • IA Generativa**
 
