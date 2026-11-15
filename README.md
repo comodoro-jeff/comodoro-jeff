@@ -163,5 +163,3 @@ Tenho interesse em oportunidades relacionadas a:
 # 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jefferson-dias-ribeiro-435a24427/)
-
----
