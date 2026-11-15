@@ -28,11 +28,32 @@ Este perfil reúne projetos acadêmicos e pessoais que representam minha trajet�
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
 
-### Dados & Machine Learning
+### Desenvolvimento Web
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+
+### Dados, Ciência de Dados & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-333333?style=for-the-badge&logo=meta&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-6C4CF1?style=for-the-badge&logoColor=white)
+
+### IoT, Desenvolvimento & Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![ThingsBoard](https://img.shields.io/badge/ThingsBoard-305680?style=for-the-badge&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Tecnologias
 
@@ -40,6 +61,11 @@ Este perfil reúne projetos acadêmicos e pessoais que representam minha trajet�
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge\&logo=mqtt\&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
+
+### Inteligência Artificial & Produtividade
+
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -111,15 +137,16 @@ O projeto consiste em um jogo 3D no qual o jogador controla uma nave espacial, d
 
 Estou direcionando meus estudos para a construção de uma base sólida na área de Dados, com foco em:
 
-* Python para Dados
+* Python aplicado à Análise e Ciência de Dados
 * SQL e Bancos de Dados
 * Análise Exploratória de Dados
 * Visualização de Dados
 * Estatística Aplicada
-* Machine Learning
-* Séries Temporais
+* Machine Learning e Deep Learning
+* Séries Temporais e Modelagem Preditiva
 * Fundamentos de Engenharia de Dados
-* Tecnologias para Processamento e Armazenamento de dados
+* Integração e Aquisição de Dados por APIs
+* Tecnologias para Processamento, Armazenamento e Gerenciamento de Dados
 
 ---
 
